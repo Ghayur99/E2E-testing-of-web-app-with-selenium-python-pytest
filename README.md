@@ -1,6 +1,6 @@
 **Configure Project**
 - Clone URL and write in cmd in any location of your system
-**git clone** https://git-codecommit.ca-central-1.amazonaws.com/v1/repos/taxslips-e2e-automation
+**git clone** git@github.com:Ghayur99/E2E-testing-of-web-app-with-selenium-python-pytest.git
 - To execute the following command on the terminal: git checkout develop
 - Switch your branch:
 - i.e.: git checkout feature/employee-crud-t4slips
