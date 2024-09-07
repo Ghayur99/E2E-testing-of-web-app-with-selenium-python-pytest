@@ -1,0 +1,28 @@
+class EmployeeData:
+    """Data for the test case of employee"""
+    case1_expected_dict = {
+        "fName": "Haroon",
+        "lName": "Hassan",
+        "initials": "M",
+        "dateOfBirth": "Sep 06 1985",
+        "employeeCode": "12344",
+        "sin": "990-000-010",
+        "type": "Fulltime Employee",
+        "status": "Active",
+        "address": "House # 23, Street No. 2",
+        "city": "Toronto",
+        "postCode": "A5A5A5",
+        "province": "Ontario",
+        "country": "Canada",
+        "email": "haroon@websential.ca",
+        "phoneHome": "(123) 456-7890",
+        "homeExt": "123",
+        "phonePersonal": "(987) 654-3210",
+        "personalExt": "458",
+        "poe": "Ontario",
+        "cppExempt": "False",
+        "eiExempt": "False",
+        "ppipExempt": "False",
+        "employmentCode": "--",
+        "payPeriod": "26 - Bi-Weekly",
+        "ReducedEi": "No"}
