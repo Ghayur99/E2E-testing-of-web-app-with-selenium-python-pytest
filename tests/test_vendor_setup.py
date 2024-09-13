@@ -22,7 +22,7 @@ class TestVendorSetup(BaseClass):
 
     def test_required_fields_info_screen(self):
         """
-        Testi ng the required fields on the bases of the vendor type and there alert messages
+        Testing the required fields on the bases of the vendor type and there alert messages
         :return:
         """
         vendor_list = VendorList(self.driver)
